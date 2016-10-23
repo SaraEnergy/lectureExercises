@@ -1,0 +1,9 @@
+html body {
+              background: #222222;
+              color: #ffffff;
+              font-size: 32px;
+            }
+
+#katze + div, #fi, div, {
+  color: red;
+}
